@@ -2,3 +2,4 @@
 /RemoteAudioServer.apk
 
 *.DS_Store
+/proguard_logs
